@@ -1,0 +1,11 @@
+Model Information:
+* title:	Square Shift
+* source:	https://sketchfab.com/3d-models/square-shift-3445ba90891146e8962b2d7260d35f2b
+* author:	Tycho Magnetic Anomaly (https://sketchfab.com/Tycho_Magnetic_Anomaly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Square Shift" (https://sketchfab.com/3d-models/square-shift-3445ba90891146e8962b2d7260d35f2b) by Tycho Magnetic Anomaly (https://sketchfab.com/Tycho_Magnetic_Anomaly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
