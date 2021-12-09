@@ -6,6 +6,8 @@ import RAF from '../utils/RAF'
 import config from '../utils/config'
 import MyGUI from '../utils/MyGUI'
 
+import Sphere from './SphereClass'
+
 import simpleFrag from '../shaders/simple.frag'
 import simpleVert from '../shaders/simple.vert'
 
@@ -43,6 +45,8 @@ class MainThreeScene {
         })
         const cube = new THREE.Mesh(new THREE.BoxGeometry(), shaderMat)
         this.scene.add(cube)
+
+        Sphere.init(this.scene)
 
         MyGUI.hide()
         if (config.myGui)
