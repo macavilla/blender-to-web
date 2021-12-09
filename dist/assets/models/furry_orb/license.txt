@@ -1,0 +1,11 @@
+Model Information:
+* title:	Furry Orb
+* source:	https://sketchfab.com/3d-models/furry-orb-0b4bdda3209649bda9a7406b63d09ecd
+* author:	Tycho Magnetic Anomaly (https://sketchfab.com/Tycho_Magnetic_Anomaly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Furry Orb" (https://sketchfab.com/3d-models/furry-orb-0b4bdda3209649bda9a7406b63d09ecd) by Tycho Magnetic Anomaly (https://sketchfab.com/Tycho_Magnetic_Anomaly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
