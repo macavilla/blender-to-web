@@ -6,6 +6,7 @@ import RAF from '../utils/RAF'
 import config from '../utils/config'
 import MyGUI from '../utils/MyGUI'
 
+// 1-import models
 import Sphere from './SphereClass'
 
 import simpleFrag from '../shaders/simple.frag'
@@ -46,6 +47,7 @@ class MainThreeScene {
         const cube = new THREE.Mesh(new THREE.BoxGeometry(), shaderMat)
         this.scene.add(cube)
 
+        // 2- add imported model to scene
         Sphere.init(this.scene)
 
         MyGUI.hide()
